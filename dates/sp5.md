@@ -1,4 +1,6 @@
 ### Dates
 
-    - Assigned: 05/12/2021
-    - Due: Saturday May 22 23:59:00 PST 2021
+    - Assigned: 05/19/2022
+    - Due: Tuesday May 24 23:59:00 PDT 2022
+    - Line coverage bar: 80
+    - Function coverage bar: 85
