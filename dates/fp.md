@@ -1,4 +1,4 @@
 ### Dates
 
-    - Assigned: 05/26/2023
-    - Due: Monday June 05 23:59:00 PDT 2023
+    - Assigned: 11/24/2023
+    - Due: Sunday Nov 03 23:59:00 PST 2023
