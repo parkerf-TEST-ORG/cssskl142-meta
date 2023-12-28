@@ -1,7 +1,7 @@
 ### Dates
 
-    - Assigned: 9/27/2023
-    - Due: Monday Oct 09 23:59:00 PDT 2023
+    - Assigned: 1/03/2024
+    - Due: Wednesday January 10 23:59:00 PST 2023
     - Line coverage bar: 80
     - Function coverage bar: 85
 
